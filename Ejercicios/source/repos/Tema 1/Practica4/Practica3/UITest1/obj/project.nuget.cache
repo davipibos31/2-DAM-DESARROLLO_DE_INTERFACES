@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "dgSpecHash": "jZZAefPbu+s8lFXsC0/fBWszyTzVlL5GiY5MDcfWvyfcuvFeU8zzWjXPDX79UZYga41WDAh1fsoSlapCleQLLg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\david\\source\\repos\\Tema 1\\Practica4\\Practica3\\UITest1\\UITest1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\nunit3testadapter\\3.13.0\\nunit3testadapter.3.13.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\xamarin.uitest\\3.2.2\\xamarin.uitest.3.2.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto Practica3.Android no es compatible con net461 (.NETFramework,Version=v4.6.1). El proyecto Practica3.Android admite: monoandroid13.0 (MonoAndroid,Version=v13.0)",
+      "libraryId": "Practica3.Android",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto Practica3.Android no es compatible con net461 (.NETFramework,Version=v4.6.1) / win. El proyecto Practica3.Android admite: monoandroid13.0 (MonoAndroid,Version=v13.0)",
+      "libraryId": "Practica3.Android",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1/win"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto Practica3.Android no es compatible con net461 (.NETFramework,Version=v4.6.1) / win-x64. El proyecto Practica3.Android admite: monoandroid13.0 (MonoAndroid,Version=v13.0)",
+      "libraryId": "Practica3.Android",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1/win-x64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto Practica3.Android no es compatible con net461 (.NETFramework,Version=v4.6.1) / win-x86. El proyecto Practica3.Android admite: monoandroid13.0 (MonoAndroid,Version=v13.0)",
+      "libraryId": "Practica3.Android",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1/win-x86"
+      ]
+    }
+  ]
+}

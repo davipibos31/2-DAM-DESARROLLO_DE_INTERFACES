@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Practica3.Views.ItemsPage"
+             Title="{Binding Title}"
+             xmlns:local="clr-namespace:Practica3.ViewModels"  
+             xmlns:model="clr-namespace:Practica3.Models"  
+             x:Name="BrowseItemsPage">
+
+
+    <StackLayout x:Name="Sl1" Orientation="Vertical">
+        <StackLayout x:Name="Sl2" HeightRequest="600">
+            <ScrollView BackgroundColor="LightGray" HeightRequest="600">
+                <StackLayout x:Name="SL3" Orientation="Vertical">
+                    
+                </StackLayout>
+            </ScrollView>
+        </StackLayout>
+        
+    </StackLayout>
+
+
+    <!--
+      x:DataType enables compiled bindings for better performance and compile time validation of binding expressions.
+      https://docs.microsoft.com/xamarin/xamarin-forms/app-fundamentals/data-binding/compiled-bindings
+    -->
+   
+</ContentPage>

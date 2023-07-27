@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\Tema 1\Examen1\Examen1\bin\Debug\netstandard2.0\Examen1.deps.json
+C:\Users\david\source\repos\Tema 1\Examen1\Examen1\bin\Debug\netstandard2.0\Examen1.dll
+C:\Users\david\source\repos\Tema 1\Examen1\Examen1\bin\Debug\netstandard2.0\Examen1.pdb
+C:\Users\david\source\repos\Tema 1\Examen1\Examen1\obj\Debug\netstandard2.0\Examen1.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Tema 1\Examen1\Examen1\obj\Debug\netstandard2.0\Examen1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\Tema 1\Examen1\Examen1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\david\source\repos\Tema 1\Examen1\Examen1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\david\source\repos\Tema 1\Examen1\Examen1\obj\Debug\netstandard2.0\Examen1.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Tema 1\Examen1\Examen1\obj\Debug\netstandard2.0\Examen1.AssemblyInfo.cs
+C:\Users\david\source\repos\Tema 1\Examen1\Examen1\obj\Debug\netstandard2.0\Examen1.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Tema 1\Examen1\Examen1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\david\source\repos\Tema 1\Examen1\Examen1\obj\Debug\netstandard2.0\Examen1.dll
+C:\Users\david\source\repos\Tema 1\Examen1\Examen1\obj\Debug\netstandard2.0\refint\Examen1.dll
+C:\Users\david\source\repos\Tema 1\Examen1\Examen1\obj\Debug\netstandard2.0\Examen1.pdb
+C:\Users\david\source\repos\Tema 1\Examen1\Examen1\obj\Debug\netstandard2.0\ref\Examen1.dll

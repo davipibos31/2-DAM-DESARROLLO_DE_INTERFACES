@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tema1_Ejercicio19.MainPage">
+
+    <StackLayout x:Name="Primario">
+        <StackLayout x:Name="Secundario" Orientation="Horizontal">
+            <Button x:Name="b1" Text="Verde" HorizontalOptions="StartAndExpand" WidthRequest="126" Clicked="b1_Clicked"></Button>
+            <Button x:Name="b2" Text="Rojo" HorizontalOptions="StartAndExpand" WidthRequest="126" Clicked="b2_Clicked"></Button>
+            <Button x:Name="b3" Text="Azul" HorizontalOptions="StartAndExpand" WidthRequest="126" Clicked="b3_Clicked"></Button>
+        </StackLayout>
+        <BoxView x:Name="BV1" HeightRequest="800"></BoxView>
+    </StackLayout>
+
+</ContentPage>

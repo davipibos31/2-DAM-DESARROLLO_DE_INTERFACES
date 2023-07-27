@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tema1_Ejercicio15.MainPage">
+
+    <StackLayout>
+        <Button x:Name="B1" Text="Uno" Clicked="B1_Clicked"></Button>
+        <Button x:Name="B2" Text="Dos" Clicked="B2_Clicked"></Button>
+        <Button x:Name="B3" Text="Tres" Clicked="B3_Clicked"></Button>
+        <Image x:Name="imagen1" Aspect="AspectFit" Source="caramelos.jpg" IsVisible="false"></Image>
+        <Image x:Name="imagen2"  Aspect="AspectFit" Source="corazones.jpg" IsVisible="false"></Image>
+        <Image x:Name="imagen3" Aspect="AspectFit" Source="chupachups.jpg" IsVisible="false"></Image>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,17 @@
+C:\Users\david\source\repos\Tema 1\UITest1\bin\Release\NUnit3.TestAdapter.dll
+C:\Users\david\source\repos\Tema 1\UITest1\bin\Release\NUnit3.TestAdapter.pdb
+C:\Users\david\source\repos\Tema 1\UITest1\bin\Release\nunit.engine.dll
+C:\Users\david\source\repos\Tema 1\UITest1\bin\Release\nunit.engine.api.dll
+C:\Users\david\source\repos\Tema 1\UITest1\bin\Release\test-cloud.exe
+C:\Users\david\source\repos\Tema 1\UITest1\bin\Release\UITest1.dll
+C:\Users\david\source\repos\Tema 1\UITest1\bin\Release\nunit.framework.dll
+C:\Users\david\source\repos\Tema 1\UITest1\bin\Release\nunit.framework.pdb
+C:\Users\david\source\repos\Tema 1\UITest1\bin\Release\Xamarin.UITest.dll
+C:\Users\david\source\repos\Tema 1\UITest1\bin\Release\App3.Android.dll
+C:\Users\david\source\repos\Tema 1\UITest1\bin\Release\App3.dll
+C:\Users\david\source\repos\Tema 1\UITest1\bin\Release\App3.Android.pdb
+C:\Users\david\source\repos\Tema 1\UITest1\bin\Release\App3.pdb
+C:\Users\david\source\repos\Tema 1\UITest1\obj\Release\UITest1.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Tema 1\UITest1\obj\Release\UITest1.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Tema 1\UITest1\obj\Release\UITest1.csproj.CopyComplete
+C:\Users\david\source\repos\Tema 1\UITest1\obj\Release\UITest1.dll

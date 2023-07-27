@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tema1_Ejercicio10.MainPage">
+
+    <StackLayout>
+        <Label x:Name="l1" Text="Estos son" BackgroundColor="Red" HorizontalOptions="CenterAndExpand" VerticalOptions="EndAndExpand" WidthRequest="150" FontSize="20"></Label>
+        <Label x:Name="l2" Text="dos etiquetas" BackgroundColor="Green" HorizontalOptions="Center" VerticalOptions="StartAndExpand" WidthRequest="150" FontSize="20"></Label>
+    </StackLayout>
+
+</ContentPage>

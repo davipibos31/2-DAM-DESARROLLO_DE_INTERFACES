@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\Tema 1\Ejercicio3Examen\Ejercicio3Examen\bin\Debug\netstandard2.0\Ejercicio3Examen.deps.json
+C:\Users\david\source\repos\Tema 1\Ejercicio3Examen\Ejercicio3Examen\bin\Debug\netstandard2.0\Ejercicio3Examen.dll
+C:\Users\david\source\repos\Tema 1\Ejercicio3Examen\Ejercicio3Examen\bin\Debug\netstandard2.0\Ejercicio3Examen.pdb
+C:\Users\david\source\repos\Tema 1\Ejercicio3Examen\Ejercicio3Examen\obj\Debug\netstandard2.0\Ejercicio3Examen.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Tema 1\Ejercicio3Examen\Ejercicio3Examen\obj\Debug\netstandard2.0\Ejercicio3Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\Tema 1\Ejercicio3Examen\Ejercicio3Examen\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\david\source\repos\Tema 1\Ejercicio3Examen\Ejercicio3Examen\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\david\source\repos\Tema 1\Ejercicio3Examen\Ejercicio3Examen\obj\Debug\netstandard2.0\Ejercicio3Examen.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Tema 1\Ejercicio3Examen\Ejercicio3Examen\obj\Debug\netstandard2.0\Ejercicio3Examen.AssemblyInfo.cs
+C:\Users\david\source\repos\Tema 1\Ejercicio3Examen\Ejercicio3Examen\obj\Debug\netstandard2.0\Ejercicio3Examen.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Tema 1\Ejercicio3Examen\Ejercicio3Examen\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\david\source\repos\Tema 1\Ejercicio3Examen\Ejercicio3Examen\obj\Debug\netstandard2.0\Ejercicio3Examen.dll
+C:\Users\david\source\repos\Tema 1\Ejercicio3Examen\Ejercicio3Examen\obj\Debug\netstandard2.0\refint\Ejercicio3Examen.dll
+C:\Users\david\source\repos\Tema 1\Ejercicio3Examen\Ejercicio3Examen\obj\Debug\netstandard2.0\Ejercicio3Examen.pdb
+C:\Users\david\source\repos\Tema 1\Ejercicio3Examen\Ejercicio3Examen\obj\Debug\netstandard2.0\ref\Ejercicio3Examen.dll

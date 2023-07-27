@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tema1_Ejercicio17.MainPage">
+
+    <StackLayout x:Name="principal" Orientation="Vertical">
+        <StackLayout Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="Start">
+            <CheckBox x:Name="CheckRojo" BindingContext="Rojo" CheckedChanged="CheckRojo_CheckedChanged"></CheckBox>
+            <Label x:Name="LabelRojo" Text="Rojo" FontSize="Medium"></Label>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="Start">
+            <CheckBox x:Name="CheckVerde" BindingContext="Verde" CheckedChanged="CheckVerde_CheckedChanged"></CheckBox>
+            <Label x:Name="LabelVerde" Text="Verde" FontSize="Medium"></Label>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="Start">
+            <CheckBox x:Name="CheckAzul" BindingContext="Azul" CheckedChanged="CheckAzul_CheckedChanged"></CheckBox>
+            <Label x:Name="LabelAzul" Text="Azul" FontSize="Medium"></Label>
+        </StackLayout>
+        <Label x:Name="LabelRojo2" Text="Rojo" FontSize="Medium" BackgroundColor="Red" IsVisible="false"></Label>
+        <Label x:Name="LabelVerde2" Text="Verde" FontSize="Medium" BackgroundColor="Green" IsVisible="false"></Label>
+        <Label x:Name="LabelAzul2" Text="Azul" FontSize="Medium" BackgroundColor="Blue" IsVisible="false"></Label>
+    </StackLayout>
+
+</ContentPage>

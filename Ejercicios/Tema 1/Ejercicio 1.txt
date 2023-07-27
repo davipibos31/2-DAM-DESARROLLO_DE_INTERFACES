@@ -1,0 +1,9 @@
+Ejercicio 1
+Explicar que tecnología usarías para desarrollar lo siguiente:
+
+Programar un DRON.
+Aplicación móvil apple.
+Aplicación móvil Android.
+Aplicación móvil global.
+Una tienda online.
+Interacciones con una página web.

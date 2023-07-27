@@ -1,0 +1,44 @@
+Examen segunda evaluación desarrollo de interfaces 50590010S
+--------------------------------------------------------------
+
+pregunta 1. El manual de instalación de una App
+ 
+d)  Las respuestas anteriores son correctas
+
+pregunta 2. ¿Por qué es importante documentar una aplicación?
+
+d)  Las respuestas anteriores son correctas.
+
+pregunta 3.  Cual de las siguientes respuestas NO correcta en relación al objetivo del manual de
+Usuario de una App:
+
+d) Las respuestas anteriores son falsas
+
+pregunta 4. ¿Cuál es el orden correcto de los primeros apartados de un manual de usuario?
+
+b) Portada, índice,introducción, instalación del sistema
+
+pregunta 5. Precio para ser desarrollador de Google Play.
+
+d) 25 dólares un solo pago.
+
+pregunta 6. Precio para ser desarrollador de Apple.
+
+a) 99 dólares anuales.
+
+pregunta 7. ¿Para qué utilizamos Xamarin.UITest?
+
+d) Todas las anteriores son correctas.
+
+pregunta 8. ¿A qué empresa pertenece Firebase?
+
+d) Google
+
+pregunta 9. Tipo de archivos que guardan las bases de datos de Firebase.
+
+a) .JSON
+
+pregunta 10. ¿Cuál es la forma más sencilla para instalar los paquetes necesarios para trabajar
+con FireBase?
+
+d) a y b son correctas.

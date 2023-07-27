@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tema1_Ejercicio8.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="Red" Padding="8" CornerRadius="0" VerticalOptions="Start">
+            <Label x:Name="L1" Text="Ejercicio 8" HorizontalTextAlignment="Center" VerticalTextAlignment="Start" TextColor="Black" FontSize="28"/>
+        </Frame>
+        <Label x:Name="L2" Text="Label" BackgroundColor="Blue" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" FontSize="28"></Label>
+        <Button x:Name="B1" Text="BOTON" BackgroundColor="Gray" VerticalOptions="EndAndExpand" HorizontalOptions="EndAndExpand"></Button>
+    </StackLayout>
+
+</ContentPage>

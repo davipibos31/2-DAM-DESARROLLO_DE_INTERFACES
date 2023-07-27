@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tema1_Ejercicio13.MainPage">
+
+    <StackLayout x:Name="principal" BackgroundColor="LightGray">
+        <Label Text="Calculadora" HorizontalTextAlignment="Center" TextColor="Red" FontSize="36"/>
+        
+        <Entry x:Name="num1" Placeholder="Escribe un número" Keyboard="Numeric" FontSize="Medium"></Entry>
+        <Entry x:Name="num2" Placeholder="Escribe un número" Keyboard="Numeric" FontSize="Medium"></Entry>
+        <StackLayout x:Name="secundario" Orientation="Horizontal">
+            <Button x:Name="Suma" Text="+" Clicked="Suma_Clicked" VerticalOptions="StartAndExpand" HorizontalOptions="EndAndExpand" WidthRequest="198"></Button>
+            <Button x:Name="Resta" Text="-" Clicked="Resta_Clicked" VerticalOptions="StartAndExpand" HorizontalOptions="EndAndExpand" WidthRequest="190"></Button>
+        </StackLayout>
+        <StackLayout x:Name="terciario" Orientation="Horizontal">
+            <Button x:Name="Multiplicacion" Text="*" Clicked="Multiplicacion_Clicked" VerticalOptions="StartAndExpand" HorizontalOptions="StartAndExpand" WidthRequest="198"></Button>
+            <Button x:Name="Division" Text="/" Clicked="Division_Clicked" VerticalOptions="StartAndExpand" HorizontalOptions="EndAndExpand" WidthRequest="190"></Button>
+        </StackLayout>
+        
+        <Label x:Name="Resultado_final" Text="El resultado es " FontSize="Medium"></Label>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\Prueba xamarin\Prueba xamarin\bin\Debug\netstandard2.0\Prueba xamarin.deps.json
+C:\Users\david\source\repos\Prueba xamarin\Prueba xamarin\bin\Debug\netstandard2.0\Prueba xamarin.dll
+C:\Users\david\source\repos\Prueba xamarin\Prueba xamarin\bin\Debug\netstandard2.0\Prueba xamarin.pdb
+C:\Users\david\source\repos\Prueba xamarin\Prueba xamarin\obj\Debug\netstandard2.0\Prueba xamarin.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Prueba xamarin\Prueba xamarin\obj\Debug\netstandard2.0\Prueba xamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\Prueba xamarin\Prueba xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\david\source\repos\Prueba xamarin\Prueba xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\david\source\repos\Prueba xamarin\Prueba xamarin\obj\Debug\netstandard2.0\Prueba xamarin.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Prueba xamarin\Prueba xamarin\obj\Debug\netstandard2.0\Prueba xamarin.AssemblyInfo.cs
+C:\Users\david\source\repos\Prueba xamarin\Prueba xamarin\obj\Debug\netstandard2.0\Prueba xamarin.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Prueba xamarin\Prueba xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\david\source\repos\Prueba xamarin\Prueba xamarin\obj\Debug\netstandard2.0\Prueba xamarin.dll
+C:\Users\david\source\repos\Prueba xamarin\Prueba xamarin\obj\Debug\netstandard2.0\refint\Prueba xamarin.dll
+C:\Users\david\source\repos\Prueba xamarin\Prueba xamarin\obj\Debug\netstandard2.0\Prueba xamarin.pdb
+C:\Users\david\source\repos\Prueba xamarin\Prueba xamarin\obj\Debug\netstandard2.0\ref\Prueba xamarin.dll

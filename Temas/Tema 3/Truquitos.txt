@@ -1,0 +1,70 @@
+Truquitos
+En esta página incluyo algunos truquitos que os pueden resultar útiles a la hora de desarrollar los ejercicios.
+
+Ocultar barra superior en navegación jerárquica.
+
+Para quitar la barra superior cuando se utiliza NavigationPage añadiremos el siguiente atributo en el ContentPage:
+
+NavigationPage.HasNavigationBar="False"
+
+Por ejemplo:
+
+<ContentPage x:Class="YouAppPackage.View.PageName" xmlns="http://xamarin.com/schemas/2014/forms"
+
+xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" NavigationPage.HasNavigationBar="False">
+
+
+Ejecutar código cada vez que se muestre una página
+
+Podemoss hacer que cada vez que se muestre una página se ejecute un método. Para ello añadiremos el siguiente método:
+
+protected override void OnAppearing(){
+
+//Es﻿cribe tu código aquí
+
+}
+
+Asociar un evento a un StackLayout
+
+Podemos hacer que al tocar un StackLayout se ejecute un método asociado como si se tratase de un botón. Para ello añadiremos el siguiente código:
+
+        <StackLayout.GestureRecognizers>
+
+            <TapGestureRecognizer Tapped="OnStackLayaoutTapped" />
+
+        </StackLayout.GestureRecognizers>
+
+Donde  OnStackLayaoutTapped es el método que se ejecutará (recordad que pulsando F12 sobre el nombre se genera automáticamente el método).
+
+Cambiar el color de línea de un slider
+
+Para cambiar el color de la línea del slider podemos utilizar los atributos MinimumTrackColor y  MaximumTrackColor
+
+<Slider Maximum="100" Minimum="10" MinimumTrackColor="Black" MaximumTrackColor="Black" />
+
+
+Notificación de eventos
+public class ViewModel : INotifyPropertyChanged
+{
+protected void NotifyPropertyChanged(String propertyName = "")
+{
+if (PropertyChanged != null)
+PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
+}
+public event PropertyChangedEventHandler PropertyChanged;
+}
+
+Código de un botón en el máster que permite navegar a la página Page1
+private void OnBotonPulsado(object sender, EventArgs e)
+{
+((MasterDetailPage)Parent).Detail = new NavigationPage(new Page1());
+((MasterDetailPage)Parent).IsPresented = false;
+}
+
+ListView con plantilla
+<ListView.ItemTemplate>
+<DataTemplate>
+<ViewCell>
+</ViewCell>
+</DataTemplate>
+</ListView.ItemTemplate>

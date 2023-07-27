@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tema1_Ejercicio12.MainPage">
+
+    <StackLayout>
+        <Label x:Name="l1" Text="Etiqueta1" BackgroundColor="Red" HorizontalOptions="Start" VerticalOptions="StartAndExpand" FontSize="24" WidthRequest="450" HeightRequest="250" ></Label>
+        <Label x:Name="l2" Text="Etiqueta2" BackgroundColor="Yellow" HorizontalOptions="EndAndExpand" VerticalOptions="StartAndExpand" FontSize="24"  HeightRequest="250" HorizontalTextAlignment="Start" VerticalTextAlignment="Start"></Label>
+        <Label x:Name="l3" Text="Etiqueta3" BackgroundColor="Blue" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" FontSize="24" HeightRequest="250"></Label>
+        <Label x:Name="l4" Text="Etiqueta4" BackgroundColor="Green" VerticalTextAlignment="Start" HorizontalTextAlignment="Start" FontSize="24"></Label>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Examen1.MainPage">
+
+    <StackLayout x:Name="principal" BackgroundColor="LightCyan">
+        <Frame BackgroundColor="Black"  Padding="16" CornerRadius="0">
+            <Label Text="TRIVIAL" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        
+        <StackLayout x:Name="SL1">
+            <Label x:Name="label1" TextColor="Black" Text="¿En que año el hombre piso la luna por primera vez?" Padding="20" FontSize="26" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+        </StackLayout>
+        <StackLayout x:Name="SL2" VerticalOptions="CenterAndExpand">
+            <Button x:Name="btnop1" Text="1962" Clicked="btnop1_Clicked" FontSize="22" BackgroundColor="Black" TextColor="White"></Button>
+            <Button x:Name="btnop2" Text="1969" Clicked="btnop2_Clicked" FontSize="22" BackgroundColor="Black" TextColor="White"></Button>
+            <Button x:Name="btnop3" Text="1972" Clicked="btnop3_Clicked" FontSize="22" BackgroundColor="Black" TextColor="White"></Button>
+            <Button x:Name="btnop4" Text="1965" Clicked="btnop4_Clicked" FontSize="22" BackgroundColor="Black" TextColor="White"></Button>
+        </StackLayout>
+        <StackLayout x:Name="SL3">
+            <Label x:Name="label2" TextColor="Black" Text="" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+        </StackLayout>
+        <StackLayout x:Name="SL4" VerticalOptions="EndAndExpand">
+            <Button x:Name="btnsiguiente" Text="Siguiente" Clicked="btnsiguiente_Clicked" FontSize="22" BackgroundColor="Black" TextColor="White"></Button>
+        </StackLayout>
+
+        <StackLayout x:Name="SL5" IsVisible="false">
+            <Label x:Name="label3" TextColor="Black" Text="¿En que año España gano el Mundial de Fútbol?" Padding="20" FontSize="26" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+        </StackLayout>
+        <StackLayout x:Name="SL6" VerticalOptions="CenterAndExpand" IsVisible="false">
+            <Button x:Name="btnop6" Text="2022" Clicked="btnop6_Clicked" FontSize="22" BackgroundColor="Black" TextColor="White"></Button>
+            <Button x:Name="btnop7" Text="2010" Clicked="btnop7_Clicked" FontSize="22" BackgroundColor="Black" TextColor="White"></Button>
+            <Button x:Name="btnop8" Text="2018" Clicked="btnop8_Clicked" FontSize="22" BackgroundColor="Black" TextColor="White"></Button>
+            <Button x:Name="btnop9" Text="2006" Clicked="btnop9_Clicked" FontSize="22" BackgroundColor="Black" TextColor="White"></Button>
+        </StackLayout>
+        <StackLayout x:Name="SL7" IsVisible="false">
+            <Label x:Name="label4" TextColor="Black" Text="" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+        </StackLayout>
+        <StackLayout x:Name="SL8" VerticalOptions="EndAndExpand" IsVisible="false">
+            <Button x:Name="btnsiguiente2" Text="Siguiente" Clicked="btnsiguiente2_Clicked" FontSize="22" BackgroundColor="Black" TextColor="White"></Button>
+        </StackLayout>
+        
+    </StackLayout>
+
+</ContentPage>

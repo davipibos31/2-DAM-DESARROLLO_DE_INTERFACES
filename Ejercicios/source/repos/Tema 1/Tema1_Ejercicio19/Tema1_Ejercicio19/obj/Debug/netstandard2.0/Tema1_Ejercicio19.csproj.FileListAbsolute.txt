@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio19\Tema1_Ejercicio19\bin\Debug\netstandard2.0\Tema1_Ejercicio19.deps.json
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio19\Tema1_Ejercicio19\bin\Debug\netstandard2.0\Tema1_Ejercicio19.dll
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio19\Tema1_Ejercicio19\bin\Debug\netstandard2.0\Tema1_Ejercicio19.pdb
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio19\Tema1_Ejercicio19\obj\Debug\netstandard2.0\Tema1_Ejercicio19.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio19\Tema1_Ejercicio19\obj\Debug\netstandard2.0\Tema1_Ejercicio19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio19\Tema1_Ejercicio19\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio19\Tema1_Ejercicio19\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio19\Tema1_Ejercicio19\obj\Debug\netstandard2.0\Tema1_Ejercicio19.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio19\Tema1_Ejercicio19\obj\Debug\netstandard2.0\Tema1_Ejercicio19.AssemblyInfo.cs
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio19\Tema1_Ejercicio19\obj\Debug\netstandard2.0\Tema1_Ejercicio19.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio19\Tema1_Ejercicio19\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio19\Tema1_Ejercicio19\obj\Debug\netstandard2.0\Tema1_Ejercicio19.dll
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio19\Tema1_Ejercicio19\obj\Debug\netstandard2.0\refint\Tema1_Ejercicio19.dll
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio19\Tema1_Ejercicio19\obj\Debug\netstandard2.0\Tema1_Ejercicio19.pdb
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio19\Tema1_Ejercicio19\obj\Debug\netstandard2.0\ref\Tema1_Ejercicio19.dll

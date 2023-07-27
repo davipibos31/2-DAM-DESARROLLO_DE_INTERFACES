@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio8\Tema1_Ejercicio8\bin\Debug\netstandard2.0\Tema1_Ejercicio8.deps.json
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio8\Tema1_Ejercicio8\bin\Debug\netstandard2.0\Tema1_Ejercicio8.dll
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio8\Tema1_Ejercicio8\bin\Debug\netstandard2.0\Tema1_Ejercicio8.pdb
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio8\Tema1_Ejercicio8\obj\Debug\netstandard2.0\Tema1_Ejercicio8.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio8\Tema1_Ejercicio8\obj\Debug\netstandard2.0\Tema1_Ejercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio8\Tema1_Ejercicio8\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio8\Tema1_Ejercicio8\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio8\Tema1_Ejercicio8\obj\Debug\netstandard2.0\Tema1_Ejercicio8.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio8\Tema1_Ejercicio8\obj\Debug\netstandard2.0\Tema1_Ejercicio8.AssemblyInfo.cs
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio8\Tema1_Ejercicio8\obj\Debug\netstandard2.0\Tema1_Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio8\Tema1_Ejercicio8\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio8\Tema1_Ejercicio8\obj\Debug\netstandard2.0\Tema1_Ejercicio8.dll
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio8\Tema1_Ejercicio8\obj\Debug\netstandard2.0\refint\Tema1_Ejercicio8.dll
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio8\Tema1_Ejercicio8\obj\Debug\netstandard2.0\Tema1_Ejercicio8.pdb
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio8\Tema1_Ejercicio8\obj\Debug\netstandard2.0\ref\Tema1_Ejercicio8.dll

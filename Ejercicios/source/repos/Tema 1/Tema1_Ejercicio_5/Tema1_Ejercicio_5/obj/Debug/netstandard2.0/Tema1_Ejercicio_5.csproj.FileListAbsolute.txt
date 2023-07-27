@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio_5\Tema1_Ejercicio_5\bin\Debug\netstandard2.0\Tema1_Ejercicio_5.deps.json
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio_5\Tema1_Ejercicio_5\bin\Debug\netstandard2.0\Tema1_Ejercicio_5.dll
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio_5\Tema1_Ejercicio_5\bin\Debug\netstandard2.0\Tema1_Ejercicio_5.pdb
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio_5\Tema1_Ejercicio_5\obj\Debug\netstandard2.0\Tema1_Ejercicio_5.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio_5\Tema1_Ejercicio_5\obj\Debug\netstandard2.0\Tema1_Ejercicio_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio_5\Tema1_Ejercicio_5\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio_5\Tema1_Ejercicio_5\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio_5\Tema1_Ejercicio_5\obj\Debug\netstandard2.0\Tema1_Ejercicio_5.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio_5\Tema1_Ejercicio_5\obj\Debug\netstandard2.0\Tema1_Ejercicio_5.AssemblyInfo.cs
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio_5\Tema1_Ejercicio_5\obj\Debug\netstandard2.0\Tema1_Ejercicio_5.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio_5\Tema1_Ejercicio_5\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio_5\Tema1_Ejercicio_5\obj\Debug\netstandard2.0\Tema1_Ejercicio_5.dll
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio_5\Tema1_Ejercicio_5\obj\Debug\netstandard2.0\refint\Tema1_Ejercicio_5.dll
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio_5\Tema1_Ejercicio_5\obj\Debug\netstandard2.0\Tema1_Ejercicio_5.pdb
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio_5\Tema1_Ejercicio_5\obj\Debug\netstandard2.0\ref\Tema1_Ejercicio_5.dll

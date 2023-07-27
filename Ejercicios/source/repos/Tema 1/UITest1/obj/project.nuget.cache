@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "dgSpecHash": "s4C8nfuJaZuChLAzvALDlNT6NjmNSvOq0hgb/QnfiCQD/J3VpXjZlkcQtVEt74ceLaAsJL7f5WErIaGS+UD+Xw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\david\\source\\repos\\Tema 1\\UITest1\\UITest1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\nunit3testadapter\\3.13.0\\nunit3testadapter.3.13.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\xamarin.uitest\\3.2.2\\xamarin.uitest.3.2.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto App3.Android no es compatible con net461 (.NETFramework,Version=v4.6.1). El proyecto App3.Android admite: monoandroid12.0 (MonoAndroid,Version=v12.0)",
+      "libraryId": "App3.Android",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto App3.Android no es compatible con net461 (.NETFramework,Version=v4.6.1) / win. El proyecto App3.Android admite: monoandroid12.0 (MonoAndroid,Version=v12.0)",
+      "libraryId": "App3.Android",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1/win"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto App3.Android no es compatible con net461 (.NETFramework,Version=v4.6.1) / win-x64. El proyecto App3.Android admite: monoandroid12.0 (MonoAndroid,Version=v12.0)",
+      "libraryId": "App3.Android",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1/win-x64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto App3.Android no es compatible con net461 (.NETFramework,Version=v4.6.1) / win-x86. El proyecto App3.Android admite: monoandroid12.0 (MonoAndroid,Version=v12.0)",
+      "libraryId": "App3.Android",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1/win-x86"
+      ]
+    }
+  ]
+}

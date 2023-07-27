@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio15\Tema1_Ejercicio15\bin\Debug\netstandard2.0\Tema1_Ejercicio15.deps.json
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio15\Tema1_Ejercicio15\bin\Debug\netstandard2.0\Tema1_Ejercicio15.dll
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio15\Tema1_Ejercicio15\bin\Debug\netstandard2.0\Tema1_Ejercicio15.pdb
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio15\Tema1_Ejercicio15\obj\Debug\netstandard2.0\Tema1_Ejercicio15.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio15\Tema1_Ejercicio15\obj\Debug\netstandard2.0\Tema1_Ejercicio15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio15\Tema1_Ejercicio15\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio15\Tema1_Ejercicio15\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio15\Tema1_Ejercicio15\obj\Debug\netstandard2.0\Tema1_Ejercicio15.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio15\Tema1_Ejercicio15\obj\Debug\netstandard2.0\Tema1_Ejercicio15.AssemblyInfo.cs
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio15\Tema1_Ejercicio15\obj\Debug\netstandard2.0\Tema1_Ejercicio15.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio15\Tema1_Ejercicio15\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio15\Tema1_Ejercicio15\obj\Debug\netstandard2.0\Tema1_Ejercicio15.dll
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio15\Tema1_Ejercicio15\obj\Debug\netstandard2.0\refint\Tema1_Ejercicio15.dll
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio15\Tema1_Ejercicio15\obj\Debug\netstandard2.0\Tema1_Ejercicio15.pdb
+C:\Users\david\source\repos\Tema 1\Tema1_Ejercicio15\Tema1_Ejercicio15\obj\Debug\netstandard2.0\ref\Tema1_Ejercicio15.dll

@@ -1,0 +1,27 @@
+		Instalación de Xamarin en Visual Studio 2019
+
+https://docs.microsoft.com/es-es/xamarin/get-started/installation/windows
+
+		Aceleración de hardware para el rendimiento del emulador (HAXM de Hyper-V & )
+
+https://docs.microsoft.com/es-es/xamarin/android/get-started/installation/android-emulator/hardware-acceleration?pivots=windows
+
+		Configurar el dispositivo para el desarrollo
+
+https://docs.microsoft.com/es-es/xamarin/android/get-started/installation/set-up-device-for-development
+
+		Creación de una App con Xamarin
+
+https://dotnet.microsoft.com/en-us/learn/xamarin/hello-world-tutorial/create
+
+		Compilación de la primera aplicación de Xamarin.Forms
+
+https://docs.microsoft.com/es-es/xamarin/get-started/first-app/?pivots=windows
+
+		Recarga activa de XAML para Xamarin.Forms
+
+https://docs.microsoft.com/es-es/xamarin/xamarin-forms/xaml/hot-reload
+
+		Documentación Xamarin.Forms
+
+https://docs.microsoft.com/es-es/xamarin/xamarin-forms/user-interface/

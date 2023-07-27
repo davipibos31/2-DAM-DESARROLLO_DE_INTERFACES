@@ -1,0 +1,2 @@
+C:\Users\david\source\repos\Tema 1\Practica4\Practica3\UITest1\obj\UI Test\UITest1.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Tema 1\Practica4\Practica3\UITest1\obj\UI Test\UITest1.csproj.CoreCompileInputs.cache

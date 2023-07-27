@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Practica2.MainPage">
+
+    <StackLayout x:Name="Principal">
+        <StackLayout x:Name="SL1" Orientation="Vertical" >
+            <Image x:Name="img1"  Source="el_buen_cirujano.jpg" Aspect="AspectFit" HorizontalOptions="CenterAndExpand" VerticalOptions="StartAndExpand" WidthRequest="245" HeightRequest="400" ></Image>
+            <Label x:Name="titulo1" Padding="10" Text="El buen cirujano" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" FontSize="28" TextColor="Black"></Label>
+            <StackLayout x:Name="SL2" Orientation="Horizontal">
+                <Image x:Name="Estrellas1" Source="unaestrella.jpg" Aspect="AspectFit" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" WidthRequest="100"></Image>
+                <Label x:Name="lb1" Text="Takallo" HorizontalOptions="StartAndExpand" VerticalOptions="EndAndExpand"></Label>
+                <Label x:Name="lb2" Text="5.8€" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand" Padding="5"></Label>
+            </StackLayout>
+            <StackLayout x:Name="SL3" Orientation="Horizontal">
+                <Image x:Name="Estrellas2" Source="cuatroestrella.jpg" Aspect="AspectFit" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" WidthRequest="100"></Image>
+                <Label x:Name="lb3" Text="Mocoyo" HorizontalOptions="StartAndExpand" VerticalOptions="EndAndExpand"></Label>
+                <Label x:Name="lb4" Text="13.5€" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand" Padding="5"></Label>
+            </StackLayout>
+        </StackLayout>
+
+        <StackLayout x:Name="SL4" Orientation="Vertical" IsVisible="false">
+            <Image x:Name="img2"  Source="el_palacio_de_lilith.jpg" Aspect="AspectFit" HorizontalOptions="CenterAndExpand" VerticalOptions="StartAndExpand" WidthRequest="245" HeightRequest="400" ></Image>
+            <Label x:Name="titulo2" Padding="10" Text="El palacio de lilith" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" FontSize="28" TextColor="Black"></Label>
+            <StackLayout x:Name="SL5" Orientation="Horizontal">
+                <Image x:Name="Estrellas1_1" Source="cincoestrella.jpg" Aspect="AspectFit" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" WidthRequest="100"></Image>
+                <Label x:Name="lb5" Text="hopeye" HorizontalOptions="StartAndExpand" VerticalOptions="EndAndExpand"></Label>
+                <Label x:Name="lb6" Text="55.8€" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand" Padding="5"></Label>
+            </StackLayout>
+            <StackLayout x:Name="SL6" Orientation="Horizontal">
+                <Image x:Name="Estrellas2_2" Source="tresestrella.jpg" Aspect="AspectFit" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" WidthRequest="100"></Image>
+                <Label x:Name="lb7" Text="Libreriasl" HorizontalOptions="StartAndExpand" VerticalOptions="EndAndExpand"></Label>
+                <Label x:Name="lb8" Text="11.5€" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand" Padding="5"></Label>
+            </StackLayout>
+        </StackLayout>
+
+        <StackLayout x:Name="SL7" Orientation="Vertical" IsVisible="false" >
+            <Image x:Name="img3"  Source="Fausto.jpg" Aspect="AspectFit" HorizontalOptions="CenterAndExpand" VerticalOptions="StartAndExpand" WidthRequest="245" HeightRequest="400" ></Image>
+            <Label x:Name="titulo3" Padding="10" Text="Fausto" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" FontSize="28" TextColor="Black"></Label>
+            <StackLayout x:Name="SL8" Orientation="Horizontal">
+                <Image x:Name="Estrellas1_1_1" Source="dosestrella.jpg" Aspect="AspectFit" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" WidthRequest="100"></Image>
+                <Label x:Name="lb9" Text="zulmacio" HorizontalOptions="StartAndExpand" VerticalOptions="EndAndExpand"></Label>
+                <Label x:Name="lb10" Text="3.8€" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand" Padding="5"></Label>
+            </StackLayout>
+            <StackLayout x:Name="SL9" Orientation="Horizontal">
+                <Image x:Name="Estrellas2_2_2" Source="cuatroestrella.jpg" Aspect="AspectFit" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" WidthRequest="100"></Image>
+                <Label x:Name="lb11" Text="Querston" HorizontalOptions="StartAndExpand" VerticalOptions="EndAndExpand"></Label>
+                <Label x:Name="lb12" Text="13.5€" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand" Padding="5"></Label>
+            </StackLayout>
+        </StackLayout>
+        <StackLayout x:Name="Secundario" Orientation="Horizontal" VerticalOptions="EndAndExpand">
+            <Button x:Name="bAnterior" Text="Anterior" HorizontalOptions="StartAndExpand" VerticalOptions="EndAndExpand" WidthRequest="190" Clicked="bAnterior_Clicked"></Button>
+            <Button x:Name="bSiguiente" Text="Siguiente" HorizontalOptions="StartAndExpand" VerticalOptions="EndAndExpand" WidthRequest="195" Clicked="bSiguiente_Clicked"></Button>
+        </StackLayout>
+        
+    </StackLayout>
+
+</ContentPage>
